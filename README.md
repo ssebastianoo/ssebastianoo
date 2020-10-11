@@ -7,3 +7,5 @@ in january 2019 he showed us a really basic python2 course, i loved it and in ap
 - check [my site](https://www.seba.gq/index.html)
 
 ![Seba's stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
+
+![Seba's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssebastianoo&theme=dracula) 
