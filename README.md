@@ -1,6 +1,6 @@
 ## Sebastiano
 
-![i code shitty things](https://cdn.discordapp.com/attachments/611325047860363281/822391785832972308/standard_6.gif)
+![i code shitty things](https://cdn.discordapp.com/attachments/636316942445051914/822396761376686120/i_code_shitty_things.gif)
 
 nerd since 2005
 
