@@ -9,4 +9,4 @@ nerd since 2005
 
 ![Seba's stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
 
-![Seba's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssebastianoo&theme=dracula&hide=batchfile,javascript,css) 
+![Seba's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssebastianoo&theme=dracula&hide=batchfile,css) 
