@@ -1,10 +1,16 @@
 ## Sebastiano
 
-heyo, i'm seb, in 2018 my informartic teacher showed scrath, a block programming language, to the class and i liked how it worked.
-in january 2019 he showed us a really basic python2 course, i loved it and in april 2019 i started learning discord.py, ending learning a lot of python and other stuff.
+![i code shitty things](https://cdn.discordapp.com/attachments/611325047860363281/822391785832972308/standard_6.gif)
 
-- CEO of [@Cookie Fighter](https://github.com/CookieFighter/)
-- check [my site](https://www.seba.gq/index.html)
+nerd since 2005
+
+i code:
+- bots (discord, telegram)
+- random python scripts
+- webapps
+
+- creator of [@Cookie Fighter](https://github.com/CookieFighter/)
+- check [my site](https://www.seba.gq/)
 
 ![Seba's stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
 
