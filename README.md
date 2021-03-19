@@ -4,11 +4,6 @@
 
 nerd since 2005
 
-i code:
-- bots (discord, telegram)
-- random python scripts
-- webapps
-
 - creator of [@Cookie Fighter](https://github.com/CookieFighter/)
 - check [my site](https://www.seba.gq/)
 
