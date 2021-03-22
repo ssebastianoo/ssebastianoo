@@ -4,7 +4,7 @@
 
 nerd since 2005
 
-- creator of [@Cookie Fighter](https://github.com/CookieFighter/)
+- creator of [Cookie Fighter](https://github.com/CookieFighter/)
 - check [my site](https://www.seba.gq/)
 
 ![Seba's stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
