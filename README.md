@@ -1,7 +1,5 @@
 ## Sebastiano
 
-nerd since 2005
-
 - creator of [Cookie Fighter](https://github.com/CookieFighter/)
 - check [my site](https://www.seba.gq/)
 
