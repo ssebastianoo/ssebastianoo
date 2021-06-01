@@ -1,7 +1,5 @@
 ## Sebastiano
 
-![i code shitty things](https://cdn.discordapp.com/attachments/636316942445051914/822396761376686120/i_code_shitty_things.gif)
-
 nerd since 2005
 
 - creator of [Cookie Fighter](https://github.com/CookieFighter/)
