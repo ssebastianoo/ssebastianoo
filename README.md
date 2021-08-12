@@ -1,4 +1,4 @@
-## Sebastiano
+## seb
 
 - [Cookie Fighter](https://github.com/ToastEnergy/CookieFighter) developer
 - check [my site](https://www.seba.gq/)
