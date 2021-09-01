@@ -9,4 +9,4 @@
 
 ![seb' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssebastianoo&theme=dracula&hide=batchfile,css) 
 
-[![seb's github activity graph](https://activity-graph.herokuapp.com/graph?username=seb&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![seb's github activity graph](https://activity-graph.herokuapp.com/graph?username=ssebastianoo&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
