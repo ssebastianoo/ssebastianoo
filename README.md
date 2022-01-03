@@ -3,7 +3,7 @@
 - [Toast Energy](https://github.com/ToastEnergy) developer
 - check [my site](https://www.seba.gq/)
 
-<img height="100px" src="https://discord.c99.nl/widget/theme-4/488398758812319745.png">
+[![Discord Presence](https://lanyard.cnrad.dev/api/488398758812319745)](https://discord.com/users/488398758812319745)
 
 ![seb' stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
 
