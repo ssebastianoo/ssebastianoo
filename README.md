@@ -1,7 +1,7 @@
 ## seb
 
 - [Toast Energy](https://github.com/ToastEnergy) developer
-- check [my site](https://www.seba.gq/)
+- check [my site](https://sebastianogirotto.me/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/488398758812319745)](https://discord.com/users/488398758812319745)
 
