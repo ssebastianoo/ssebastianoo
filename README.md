@@ -1,6 +1,14 @@
-## seb
-check [my site](https://gir8.it/)
-
-![seb' stats](https://github-readme-stats.vercel.app/api?username=ssebastianoo&theme=tokyonight) 
-
-![seb' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssebastianoo&theme=dracula) 
+hi im seb
+```
+> italy
+> computer science student
+> i do music
+```
+tech knowledge
+```
+> javascript / typescript
+> sveltekit, nextjs
+> python
+> linux
+> figma
+```
