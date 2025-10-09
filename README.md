@@ -2,7 +2,7 @@ hi im seb
 ```
 > italy
 > computer science student
-> i do music
+> i make music
 ```
 tech knowledge
 ```
