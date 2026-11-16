@@ -14,4 +14,4 @@ tech knowledge
 ```
 net
 
-[`gir8.it`](https://gir8.it) [`bluesky`](https://bsky.app/profile/gir8.it)
+[`gir8.it`](https://gir8.it) [`twitter`](https://twitter.com/ssebastianoo)
